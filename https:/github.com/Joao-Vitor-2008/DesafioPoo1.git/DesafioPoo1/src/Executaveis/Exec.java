@@ -30,6 +30,7 @@ public class Exec {
 		}
 
 		JOptionPane.showMessageDialog(null, produtos);
+   teste
 
 	}
 
